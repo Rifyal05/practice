@@ -6,10 +6,6 @@ package komputer;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Fikal Alif
- */
 public class Tes {
     public static void main(String[] args) {
         DataKomputer data = new DataKomputer();
